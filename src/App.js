@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Cambio con Robincito, branch feature
+          Cambio con Robincito, branch testing
         </a>
       </header>
     </div>
