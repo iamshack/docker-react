@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          learn react
+          Cambio con Robincito, branch feature
         </a>
       </header>
     </div>
